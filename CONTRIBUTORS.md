@@ -2,6 +2,6 @@
 
 ## Voxta Members
 
-- Acidbubbles
+- [Acidbubbles](https://github.com/acidbubbles)
 
 ## External Contributors
