@@ -2,4 +2,6 @@
 
 ## Voxta Members
 
+- Acidbubbles
+
 ## External Contributors
