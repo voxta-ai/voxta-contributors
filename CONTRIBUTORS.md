@@ -7,3 +7,5 @@ This is the list of approved Voxta contributors. All contributors must have sign
 - [Acidbubbles](https://github.com/acidbubbles)
 
 ## External Contributors
+
+- [WeirdingModule](https://github.com/weirdingmodule)
