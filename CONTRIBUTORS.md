@@ -9,3 +9,4 @@ This is the list of approved Voxta contributors. All contributors must have sign
 ## External Contributors
 
 - [WeirdingModule](https://github.com/weirdingmodule)
+- [octavec75](https://github.com/octavec75)
