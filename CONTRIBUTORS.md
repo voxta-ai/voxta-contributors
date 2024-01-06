@@ -11,3 +11,4 @@ This is the list of approved Voxta contributors. All contributors must have sign
 - [WeirdingModule](https://github.com/weirdingmodule)
 - [octavec75](https://github.com/octavec75)
 - [djsoapyknuckles](https://github.com/djsoapyknuckles)
+- [SmokeAndAsh](https://github.com/SmokeAndAsh)
