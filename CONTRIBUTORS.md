@@ -12,3 +12,4 @@ This is the list of approved Voxta contributors. All contributors must have sign
 - [octavec75](https://github.com/octavec75)
 - [djsoapyknuckles](https://github.com/djsoapyknuckles)
 - [SmokeAndAsh](https://github.com/SmokeAndAsh)
+- [KinkyK9](https://github.com/KinkyK9)
