@@ -13,3 +13,4 @@ This is the list of approved Voxta contributors. All contributors must have sign
 - [djsoapyknuckles](https://github.com/djsoapyknuckles)
 - [SmokeAndAsh](https://github.com/SmokeAndAsh)
 - [KinkyK9](https://github.com/KinkyK9)
+- [Aios](https://github.com/Sascha353)
